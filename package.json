@@ -1,0 +1,19 @@
+{
+  "name": "@oberbeck/simple-rtc-peer-connection",
+  "version": "0.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oberbeck/simple-rtc-peer-connection"
+  },
+  "dependencies": {
+    "rxjs": "^6.6.3"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.2"
+  }
+}
